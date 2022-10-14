@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Marjazh. I'm 15 years old :p
-- 👀 I’m interested in C#, gamedev
-- 🌱 I’m currently learning C#
+- 👋 Hi, I’m @Marjazh. 
+- 👀 I’m interested in C++, gamedev
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on jedi master
 - 📫 How to reach me: marjazh-githab@mail.ru
 
